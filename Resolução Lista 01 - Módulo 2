@@ -1,0 +1,48 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Aug 27 13:47:19 2020
+
+@author: Pedro C.
+
+Bioinfo 2020 - DCC UFMG
+"""
+
+
+#   Ex 01
+linguagem = 'python'
+print(linguagem)
+
+#   Ex 02
+a = 1500
+b = 335
+
+print(a+b)
+print(a*b)
+print(a-b)
+
+#   Ex 03
+a = 'Marrie'
+b = 'Currie'
+c = '!!!'
+
+print(a + b + c)
+
+#   Ex 04
+print(2 + 3 == 5 )
+
+#   Ex 05
+print(5 + 9 = 13) 
+
+#Syntax error por atribuir valor de uma variável dentro do print
+
+
+#   Ex 06
+pi = 3.1415 #Valor aproximado de pi
+print(pi)
+
+#   Ex 07
+pi = 3.1415 #Valor aproximado de pi
+    print(pi) #Com um 'tab' antes do print(pi)
+
+#Syntax error por identação não necessária
+
